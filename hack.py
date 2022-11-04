@@ -43,11 +43,11 @@ def rom():
                         ud()
       
              elif yo=='':
-                             print('invalid option please ener')
-                             ud()
+                         print('invalid option please ener')
+                         ud()
         else:
              if yo==10:
-                             enter_token()
+                       enter_token()
             
     def enter_token():
         
