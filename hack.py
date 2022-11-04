@@ -24,7 +24,7 @@ if op==1:
 else:
     return None
 def youo():
-    os.system('clear')
+    
     print(logo)
     
 def rom():
