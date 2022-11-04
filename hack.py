@@ -38,14 +38,13 @@ def rom():
     yo=input('chose an option:')
     if yo==1:
         i()
-    else:
-          if yo ==2:
-                     print('efk error 2')
-                     ud()
-      else:
-             if yo=='':
-                          print('invalid option please ener')
-                          ud()
+          elif yo ==2:
+                        print('efk error 2')
+                        ud()
+      
+             elif yo=='':
+                             print('invalid option please ener')
+                             ud()
         else:
              if yo==10:
                              enter_token()
