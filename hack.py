@@ -40,11 +40,11 @@ def rom():
         i()
     else:
           if yo ==2:
-          print('efk error 2')
+                     print('efk error 2')
       else:
             if yo=='':
-            print('invalid option please ener')
-            ud()
+                       print('invalid option please ener')
+                       ud()
        else:
             if yo==10:
              enter_token()
