@@ -40,7 +40,7 @@ def rom():
         i()
     else:
 
-    if yo ==2:
+        yo ==2:
         os.system('xdg-open ')
     else:
         if yo=='':
