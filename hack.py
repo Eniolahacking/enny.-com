@@ -41,6 +41,7 @@ def rom():
     else:
           if yo ==2:
                      print('efk error 2')
+                     ud()
      else:
            if yo=='':
                        print('invalid option please ener')
