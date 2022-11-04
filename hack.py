@@ -39,8 +39,8 @@ def rom():
     if yo==1:
         i()
     else:
-         yo ==2:
-         os.system('xdg-open ')
+          if yo ==2:
+          os.system('xdg-open ')
      else:
           if yo=='':
             print('invalid option please ener')
