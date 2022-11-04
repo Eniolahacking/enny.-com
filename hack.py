@@ -38,7 +38,7 @@ def rom():
     yo=input('chose an option:')
     if yo==1:
         i()
-    None ==2:
+    yo ==2:
         os.system('xdg-open ')
     else:
         if yo=='':
