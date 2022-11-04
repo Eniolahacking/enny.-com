@@ -39,15 +39,14 @@ def rom():
     if yo==1:
         i()
     else:
-
-        yo ==2:
-        os.system('xdg-open ')
-    else:
-        if yo=='':
+         yo ==2:
+         os.system('xdg-open ')
+     else:
+          if yo=='':
             print('invalid option please ener')
             ud()
-    else:
-        if yo==10:
+      else:
+           if yo==10:
             enter_token()
             
     def enter_token():
