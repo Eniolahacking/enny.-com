@@ -40,7 +40,7 @@ def rom():
         i()
     else:
           if yo ==2:
-          os.system('xdg-open ')
+          print('efk error 2')
       else:
             if yo=='':
             print('invalid option please ener')
