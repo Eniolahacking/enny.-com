@@ -13,7 +13,7 @@ class you:
         pass
     logo=''
     def ud():
-    os.system('clear')
+   
         you(logo)
     print('1. FOLLOW OUR FACEBOOK PAGE ')
     print('2. EXIST')
